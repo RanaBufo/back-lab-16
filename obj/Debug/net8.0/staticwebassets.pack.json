@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pomaz\\Documents\\GitHub\\16lab_backend\\WebApplication1\\wwwroot\\static\\css\\site.css",
+      "PackagePath": "staticwebassets\\static\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\pomaz\\Documents\\GitHub\\16lab_backend\\WebApplication1\\wwwroot\\static\\css\\site2.css",
+      "PackagePath": "staticwebassets\\static\\css\\site2.css"
+    },
+    {
+      "Id": "C:\\Users\\pomaz\\Documents\\GitHub\\16lab_backend\\WebApplication1\\wwwroot\\static\\js\\site.js",
+      "PackagePath": "staticwebassets\\static\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\pomaz\\Documents\\GitHub\\16lab_backend\\WebApplication1\\wwwroot\\static\\js\\site2.js",
+      "PackagePath": "staticwebassets\\static\\js\\site2.js"
+    },
+    {
+      "Id": "C:\\Users\\pomaz\\Documents\\GitHub\\16lab_backend\\WebApplication1\\wwwroot\\static\\js\\site3.js",
+      "PackagePath": "staticwebassets\\static\\js\\site3.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WebApplication1.props",
+      "PackagePath": "build\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication1.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WebApplication1.props",
+      "PackagePath": "buildTransitive\\WebApplication1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "outputFileName": "wwwroot/static/js/bundle.js",
+    "inputFiles": [
+      "wwwroot/static/js/site.js",
+      "wwwroot/static/js/site2.js",
+      "wwwroot/static/js/site3.js"
+    ]
+  },
+  {
+    "outputFileName": "wwwroot/static/css/bundle.css",
+    "inputFiles": [
+      "wwwroot/static/css/site2.css",
+      "wwwroot/static/css/site.css"
+    ]
+  }
+]
